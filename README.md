@@ -1,5 +1,4 @@
-# java-exercicios
-# Exercícios de java
+# Enunciados
 1) Criar uma classe empregado que possui um método para calcular o salário final após descontar uma taxa e outro método que dá um aumento ao funcionário 
 2) Criar uma classe estudante e determinar se um estudante passou baseado na sua nota final (passar = nota > 60); A nota final é igual à soma de todas notas 
 3) Ler largura e altura de um triangulo; mostrar sua área, perímetro e diagonal 
