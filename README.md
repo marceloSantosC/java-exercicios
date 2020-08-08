@@ -24,4 +24,3 @@ Aplicar conhecimentos aprendidos nas aulas.
   19. Mostrar a quantidade de alunos de um professor de um curso sabendo que um aluno pode se matricular em vários cursos e que cada usuário possui um identificador único. 
   20. Fazer um programa que lê um arquivo csv com votos e fazer a contagem de votos por candidato.
   21. Ler um conjunto de produtos em um arquivo csv e calcular a média de preço, depois mostrar, em ordem decrescente, o nome dos produtos com preço abaixo da média.
-  22. Ler um arquivo com informações de funcionários e mostrar em ordem alfabética o e-e-mail de funcionários cujo salário seja maior que um valor de entrada e depois calcula a   soma dos salários de funcionários com nome iniciado em M.
